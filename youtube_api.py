@@ -6,6 +6,7 @@ import os
 import json
 import hashlib
 import time
+import ssl
 from typing import Dict, List, Optional, Any
 from datetime import datetime
 import threading
@@ -13,6 +14,7 @@ from pathlib import Path
 
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
+import httplib2
 import isodate
 
 
@@ -55,7 +57,12 @@ class YouTubeAPI:
 
     def __init__(self, api_key: str, cache_dir: str = "./cache", use_cache: bool = True):
         self.api_key = api_key
-        self.youtube = build('youtube', 'v3', developerKey=api_key)
+
+        # Create HTTP client that doesn't verify SSL (for containerized environments)
+        http = httplib2.Http()
+        http.disable_ssl_certificate_validation = True
+
+        self.youtube = build('youtube', 'v3', developerKey=api_key, http=http)
         self.cache_dir = Path(cache_dir)
         self.use_cache = use_cache
         self.rate_limiter = RateLimiter(requests_per_second=2.0)  # Conservative
