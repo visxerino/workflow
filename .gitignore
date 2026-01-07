@@ -1,0 +1,15 @@
+*.pyc
+__pycache__/
+*.db
+*.sqlite
+*.sqlite3
+cache/
+out/
+.env
+*.log
+.DS_Store
+.vscode/
+.idea/
+client_secrets.json
+credentials.json
+token.pickle

@@ -1,0 +1,95 @@
+# YouTube Research Pipeline - Seed Queries
+# Target: "for sleep" longform documentary channels created after 2025-07-15
+# Each query targets potential breakthrough documentary content
+
+# Ocean/Deep Sea
+ocean documentary for sleep
+deep sea mysteries for sleep
+abyss documentary sleep
+underwater exploration sleep
+mariana trench documentary
+
+# True Crime
+true crime documentary for sleep
+unsolved mysteries for sleep
+crime investigation sleep
+detective stories for sleep
+cold case documentary
+
+# Prison/Incarceration
+prison documentary for sleep
+behind bars documentary
+maximum security prison
+life in prison documentary
+correctional facility stories
+
+# Hidden History
+forgotten history for sleep
+erased history documentary
+suppressed history sleep
+lost civilizations sleep
+ancient mysteries for sleep
+
+# Space/Astronomy
+space documentary for sleep
+universe mysteries sleep
+black hole documentary
+NASA documentary for sleep
+cosmic exploration sleep
+astronomy documentary sleep
+
+# Earth Mysteries
+unexplained phenomena for sleep
+mysterious places documentary
+bermuda triangle documentary
+strange events for sleep
+earth mysteries sleep
+
+# Wildlife/Nature
+wildlife documentary for sleep
+nature documentary sleep
+animal behavior sleep
+predator documentary
+deep jungle documentary
+
+# Psychology/Brain
+psychology documentary for sleep
+human mind documentary
+brain science for sleep
+consciousness documentary
+behavioral science sleep
+
+# War/Military History
+war documentary for sleep
+military history sleep
+battle documentary
+world war documentary
+historical conflicts sleep
+
+# Disasters
+disaster documentary for sleep
+catastrophe stories sleep
+historical accidents
+tragedy documentary sleep
+survival stories sleep
+
+# Technology/Innovation
+technology documentary for sleep
+innovation history sleep
+silicon valley documentary
+invention stories sleep
+engineering marvels
+
+# Conspiracy/Secrets
+conspiracy documentary for sleep
+government secrets sleep
+classified documents documentary
+hidden truth for sleep
+cover up documentary
+
+# Geography/Exploration
+exploration documentary for sleep
+geographical mysteries
+expedition documentary sleep
+remote places documentary
+undiscovered locations sleep
